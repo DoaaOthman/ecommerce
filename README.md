@@ -1,6 +1,12 @@
 # EcommerceApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
+## Overview
+This project is a simple e-commerce product listing page that fetches data from the [Fake Store API](https://fakestoreapi.com/). It showcases a clean and user-friendly interface built with angular.
+
+### Prerequisites
+- Node.js (version 14 or higher)
+- npm (version 6 or higher)
 
 ## Development server
 
